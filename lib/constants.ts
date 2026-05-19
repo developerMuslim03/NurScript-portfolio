@@ -33,7 +33,7 @@ export const projects: Project[] = [
     description: "NurScript portfolio.",
     image: "/project/project3.png",
     tags: ["Next.js", "Tailwind"],
-    link: "#",
+    link: "https://nur-script-portfolio.vercel.app/",
     github: "https://github.com/developerMuslim03/NurScript-portfolio.git",
   },
   {
